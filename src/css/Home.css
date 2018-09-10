@@ -1,0 +1,16 @@
+.disRow {
+    display: flex;
+    height: 100px;
+}
+.disRow div {
+    flex: 1;
+    /*background-color: red;*/
+    border-radius: 10px;
+    border: 1px solid #dedede;
+
+}
+.disRow a {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
